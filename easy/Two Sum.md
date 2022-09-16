@@ -1,5 +1,8 @@
-https://leetcode.com/problems/two-sum/
+# 1. Two Sum
 
+[link](https://leetcode.com/problems/two-sum/)
+
+```
 public int[] twoSum(int[] nums, int target) {
         // key is the wanted number
         // value is the index
@@ -14,3 +17,4 @@ public int[] twoSum(int[] nums, int target) {
         
         return null;
     }
+```
